@@ -1,7 +1,7 @@
 
 
 <div align="center">
-# ⚡ Erick Carvajal
+⚡ Erick Carvajal
 🌌 Informatics Engineer • Blockchain Developer
 
 <p>
