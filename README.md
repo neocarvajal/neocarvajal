@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/neocarvajal/neocarvajal/refs/heads/main/solana-banner.png" width="90" />
+<img src="https://raw.githubusercontent.com/neocarvajal/neocarvajal/refs/heads/main/solana-banner.png" />
 
 # ⚡ Erick Carvajal
 
