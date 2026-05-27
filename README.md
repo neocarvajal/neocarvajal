@@ -2,7 +2,7 @@
 
 <div align="center">
 # ⚡ Erick Carvajal
-# 🌌 Informatics Engineer • Blockchain Developer
+🌌 Informatics Engineer • Blockchain Developer
 
 <p>
   <img src="https://img.shields.io/badge/Solana-Web3-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
