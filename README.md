@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/solana-foundation/solana-com/master/static/src/img/branding/solanaLogoMark.svg" width="90" />
+<img src="https://raw.githubusercontent.com/neocarvajal/neocarvajal/refs/heads/main/solana-banner.png" width="90" />
 
 # ⚡ Erick Carvajal
 
 ### Informatics Engineer • Blockchain Developer
-
-Building decentralized infrastructure, Web3 applications and scalable full-stack experiences on Solana.
 
 <p>
   <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
