@@ -4,6 +4,8 @@
 
 ### Software Engineer • Blockchain Developer
 
+</div>
+
 ---
 
 ## 🎯 Áreas de Enfoque
