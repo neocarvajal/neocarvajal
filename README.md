@@ -12,7 +12,6 @@
 
 - 🦀 **Solana Development & Smart Contracts:** Diseño e implementación de lógica on-chain.
 - 🌐 **Full-Stack Web3 Apps:** Creación de aplicaciones descentralizadas (dApps).
-- ⛓️ **Decentralized Infrastructure:** Arquitectura de sistemas distribuidos y cómputo descentralizado.
 - 🤖 **AI + Blockchain:** Exploración e integración de agentes de inteligencia artificial en entornos Web3 y automatizaciones.
 
 ---
